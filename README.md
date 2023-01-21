@@ -1,2 +1,4 @@
 # Web-Scraper
-Program for extracting data from any website
+Simple approach for extracting data from any website using Beautiful Soup library in Python
+
+
